@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/arpitchhabra/Downloads/textsummarizer/research/mlruns/0/2b30f4d2efda46b4a076c66ecf6b0c3e/artifacts
+end_time: 1769505811397
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b30f4d2efda46b4a076c66ecf6b0c3e
+run_name: pegasus-samsum-run2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769451465741
+status: 3
+tags: []
+user_id: arpitchhabra
